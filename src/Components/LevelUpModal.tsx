@@ -7,7 +7,7 @@ export function LevelUpModal() {
   return (
     <div className={styles.overlay}>
       <div className={styles.container}>
-        <header>2</header>
+        <header>{level}</header>
         <strong>Parabéns </strong>
         <p>Você alcançou um novo level</p>
 
