@@ -1,4 +1,3 @@
-import Headr from 'next/head';
 import { GetServerSideProps } from 'next';
 import { CompletedChallenges } from '../Components/CompletedChallenges';
 import { Countdown } from '../Components/Countdown';
